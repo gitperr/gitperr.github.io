@@ -1,0 +1,52 @@
+baseURL = "https://gitperr.github.io"
+title = "Alper Polat"
+languageCode = "en-us"
+theme = "devise"
+relativeURLs = true
+enableEmoji = true
+googleAnalytics = ""
+enableRobotsTXT = true
+copyright = "&copy; Copyright 2024, Alper Polat"
+
+# Main menu items
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    title = "About"
+    url = "/about/"
+    weight = -110
+  [[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    title = "Resume"
+    url = "/resume/"
+    weight = -100
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    title = "Projects"
+    url = "/projects/"
+    weight = -90    
+
+[params]
+  description = "DevOps Engineer"
+  header_title = "Alper Polat"
+  header_subtitle = "DevOps Engineer | Finland"
+  home_image = "/images/me.jpg"
+  recent_posts = 3
+  mainSections = ["posts", "post", "blog"]
+  [params.style]
+    backgroundColor = "#f8f9fa
+    homeImageBorderColor = "#ffffff
+    fontFamilyBase = "Helvetica Neue"
+    fontColor = "#212529
+  [[params.social]
+    fa_icon = "fab fa-github fa-1x"
+    href = "https://github.com/gitperr"
+  [[params.social]
+    fa_icon = "fab fa-linkedin-in fa-1x
+    href = "https://www.linkedin.com/in/talperpolat
+  [[params.social]
+    fa_icon = "fas fa-envelope fa-1x
+    href = "mailto:t.alperpolat@gmail.com"
