@@ -1,5 +1,5 @@
 +++
-date = '2024-12-05T22:11:32+02:00'
+date = '2024-12-19T22:11:32+02:00'
 draft = false
 title = 'Resume'
 +++
@@ -46,6 +46,7 @@ Keywords: Prometheus, Thanos, Grafana
 - Implemented infrastructure as code with Terraform and Packer for developing and maintaining cloud infrastructure on GCP. 
 - Used Kubernetes (k8s) and Flux for automated GitOps style deployment of on-prem apps to cloud. 
 - Oversaw CI/CD and monitoring vision of all company products as the head maintainer of GitLab CI/CD and in-house Prometheus stack.
+- Developed REST APIs with Python for cataloging internal systems.
 - Developed in-house development tooling with Python and Go for improving workflows.
 - Maintained production runner fleet of 40+ nodes, heavily Linux and macOS, with some Windows. 
 - Automated build distribution with Fastlane, Firebase and Python. 
