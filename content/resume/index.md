@@ -25,7 +25,7 @@ Keywords: GitLab CI/CD, Jenkins, Firebase, Fastlane, App Store & Google Play pub
 
 *"Making sure we have reproducible, easily maintainable infrastructure. Cattle, not pets."*
 - Maintaining 40+ nodes runner fleet on premises. Heavily *nix based (macOS & Linux), with some Windows mixed in.
-- Implementing and maintaing cloud infrastructure (including serverless) used in game servers & backend.
+- Implementing and maintaining cloud infrastructure (including serverless) used in game servers & backend.
 - Actively reducing cloud costs, recently reduced our cloud spending in some internal projects by 25%.
 - Implementing and maintaining kubernetes cluster where some internal services are hosted.
 - Documentation, troubleshooting, onboarding.
