@@ -27,10 +27,10 @@ Keywords: GitLab CI/CD, Jenkins, Firebase, Fastlane, App Store & Google Play pub
 - Maintaining 40+ nodes runner fleet on premises. Heavily *nix based (macOS & Linux), with some Windows mixed in.
 - Implementing and maintaining cloud infrastructure (including serverless) used in game servers & backend.
 - Actively reducing cloud costs, recently reduced our cloud spending in some internal projects by 25%.
-- Implementing and maintaining kubernetes cluster where some internal services are hosted.
+- Implementing and maintaining kubernetes cluster (GKE) where some internal services are hosted.
 - Documentation, troubleshooting, onboarding.
 
-Keywords: Terraform, Ansible, Packer, Vault, Bash, GCP, AWS, Kubernetes (K8s), Flux
+Keywords: Terraform, Ansible, Packer, Vault, Bash, GCP, GKE, AWS, Kubernetes (K8s), Flux
 
 ### Infrastructure and application monitoring
 
