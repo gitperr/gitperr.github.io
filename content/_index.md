@@ -7,7 +7,7 @@ title = 'About'
 Hey there, I am Alper Polat.
 
 Currently, I am working as a DevOps Engineer for Critical Force. I'm involved with
-CI/CD, Monitoring, Cloud stuff, and lots of others. Check my [resume](/resume/) for more info.
+CI/CD, Monitoring, Cloud stuff, and lots of others. Check my [resume](/career/alper_polat_resume.pdf) for more info.
 
 #### Contact
 Reach me via email on t.alperpolat@gmail.com. You can also connect with me on [GitHub](https://github.com/gitperr), and [LinkedIn](https://www.linkedin.com/in/talperpolat).

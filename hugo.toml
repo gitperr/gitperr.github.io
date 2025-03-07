@@ -20,7 +20,7 @@ copyright = "&copy; Copyright 2024, Alper Polat"
     identifier = "resume"
     name = "Resume"
     title = "Resume"
-    url = "/resume/"
+    url = "/career/alper_polat_resume.pdf"
     weight = -100
   [[menu.main]]
     identifier = "projects"
