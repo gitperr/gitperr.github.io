@@ -6,7 +6,7 @@ title = 'About'
 #### About
 Hey there, I am Alper Polat.
 
-Currently, I am working as a DevOps Engineer for Critical Force. I'm involved with
+Currently, I am working as a Senior DevOps Engineer for Meister. I'm involved with
 CI/CD, Monitoring, Cloud stuff, and lots of others. Check my [resume](/career/alper_polat_resume.pdf) for more info.
 
 #### Contact
